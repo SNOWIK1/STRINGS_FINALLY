@@ -1,0 +1,16 @@
+C:\Users\user.COMP-02\source\repos\StringsTasks\bin\Debug\net5.0\StringsTasks.exe
+C:\Users\user.COMP-02\source\repos\StringsTasks\bin\Debug\net5.0\StringsTasks.deps.json
+C:\Users\user.COMP-02\source\repos\StringsTasks\bin\Debug\net5.0\StringsTasks.runtimeconfig.json
+C:\Users\user.COMP-02\source\repos\StringsTasks\bin\Debug\net5.0\StringsTasks.runtimeconfig.dev.json
+C:\Users\user.COMP-02\source\repos\StringsTasks\bin\Debug\net5.0\StringsTasks.dll
+C:\Users\user.COMP-02\source\repos\StringsTasks\bin\Debug\net5.0\ref\StringsTasks.dll
+C:\Users\user.COMP-02\source\repos\StringsTasks\bin\Debug\net5.0\StringsTasks.pdb
+C:\Users\user.COMP-02\source\repos\StringsTasks\obj\Debug\net5.0\StringsTasks.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\source\repos\StringsTasks\obj\Debug\net5.0\StringsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.COMP-02\source\repos\StringsTasks\obj\Debug\net5.0\StringsTasks.AssemblyInfoInputs.cache
+C:\Users\user.COMP-02\source\repos\StringsTasks\obj\Debug\net5.0\StringsTasks.AssemblyInfo.cs
+C:\Users\user.COMP-02\source\repos\StringsTasks\obj\Debug\net5.0\StringsTasks.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\source\repos\StringsTasks\obj\Debug\net5.0\StringsTasks.dll
+C:\Users\user.COMP-02\source\repos\StringsTasks\obj\Debug\net5.0\ref\StringsTasks.dll
+C:\Users\user.COMP-02\source\repos\StringsTasks\obj\Debug\net5.0\StringsTasks.pdb
+C:\Users\user.COMP-02\source\repos\StringsTasks\obj\Debug\net5.0\StringsTasks.genruntimeconfig.cache
